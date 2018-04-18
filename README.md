@@ -1,1 +1,2 @@
-# Abstract-Factory
+# Abstract-Factory Pattern
+#### Bolzonella-Fusati-Ragazzo
